@@ -96,7 +96,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <br/>
                 <img title="Link" align="center" height="17" src="images/chain.png">
-                <span>Click here to see repository</span>
+                <span>Go to repository</span>
             </a>    
         </td>    
         <td width="50%" valign="top" align="center">           
@@ -108,7 +108,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <br/>
                 <img title="Link" align="center" height="17" src="images/chain.png">
-                <span>Click here to see repository</span>
+                <span>Go to repository</span>
             </a>    
         </td>  
     </tr>
