@@ -83,10 +83,6 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 <br/>
 <br/>
 <br/>
-<div align="center">
-    <a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=wendell-bitencourt&type=card" width="280" alt="Wendell George Bitencourt's Rocket ID"/></a>
-</div>
-<br/>
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2" align="center">
