@@ -103,7 +103,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             <h3 align="center">Shelf Play</h3>
             <br />           
             <a align="center" valign="center" href="https://github.com/WBitencourt/shelf-play-front-end">
-                <img src="images/shelf-play-logo.png" height="300px" alt="DYMOVIE"/>
+                <img src="images/shelf-play-logo.png" height="300px" alt="Shelf play"/>
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <br/>
@@ -111,5 +111,19 @@ I deeply believe in this quote for what it represents in the daily struggles of 
                 <span>Go to repository</span>
             </a>    
         </td>  
+        <tr>
+        <td width="50%" valign="top" align="center">           
+            <h3 align="center">💕 With love 💕</h3>
+            <br />           
+            <a align="center" valign="center" href="https://github.com/WBitencourt/with-love">
+                <img src="https://github.com/user-attachments/assets/adee83dd-cec1-4cc5-ad19-ee9023bc3f9f" height="300px" alt="Shelf play"/>
+            </a>
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/with-love">
+                <br/>
+                <img title="Link" align="center" height="17" src="images/chain.png">
+                <span>Go to repository</span>
+            </a>    
+        </td>  
+        </tr>
     </tr>
 </table>
