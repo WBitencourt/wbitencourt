@@ -124,6 +124,18 @@ I deeply believe in this quote for what it represents in the daily struggles of 
                 <span>Go to repository</span>
             </a>    
         </td>  
+        <td width="50%" valign="top" align="center">           
+            <h3 align="center">Giulice.js</h3>
+            <br />           
+            <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
+                <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
+            </a>
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/giulice.js">
+                <br/>
+                <img title="Link" align="center" height="17" src="images/chain.png">
+                <span>Go to repository</span>
+            </a>    
+        </td>  
         </tr>
     </tr>
 </table>
