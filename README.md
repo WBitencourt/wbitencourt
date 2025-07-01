@@ -33,6 +33,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 </div>
 <br/>
 <br/>
+<br/>
 <div style="display: flex;">
     <a href="https://www.typescriptlang.org/" target="blank"><img title="Typescript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg"></a>
     <a href="https://nextjs.org/" target="blank"><img title="Next.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg"></a>
@@ -40,6 +41,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
     <a href="https://www.docker.com/" target="blank"><img title="Docker" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/docker.svg"></a>
     <a href="https://nestjs.com/" target="blank"><img title="Nest.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663679627579.svg"></a>
 </div>
+<br/>
 <br/>
 <br/>
 <div style="display: flex;">
@@ -51,10 +53,12 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 </div>
 <br/>
 <br/>
+<br/>
 <div style="display: flex;">
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img title="CSS3" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg"></a>
     <a href="https://vitest.dev" target="blank"><img title="Vitest" align="left" height="40" src="https://vitest.dev/logo.svg"></a>
 </div>
+<br/>
 <br/>
 <br/>
 <div style="display: flex;">
@@ -65,12 +69,14 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 </div>
 <br/>
 <br/>
+<br/>
 <div style="display: flex;">
     <h6>I am studying</h6>
     <a href="https://www.python.org/" target="blank"><img title="Python" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg"></a>
     <a href="https://app.rocketseat.com.br/journey/inteligencia-artificial/contents" target="blank"><img title="IA" align="left" height="40" src="https://app.rocketseat.com.br/_next/image?url=https%3A%2F%2Fxesque.rocketseat.dev%2Fplatform%2F1724859467072.svg&w=48&q=75"></a>
         <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg"></a>
 </div>
+<br/>
 <br/>
 <br/>
 <div style="display: flex;">
