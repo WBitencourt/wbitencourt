@@ -57,6 +57,8 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 <div style="display: flex;">
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img title="CSS3" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg"></a>
     <a href="https://vitest.dev" target="blank"><img title="Vitest" align="left" height="40" src="https://vitest.dev/logo.svg"></a>
+    <a href="https://www.prisma.io/" target="blank"><img title="Prisma" align="left" height="40" src="https://media.licdn.com/dms/image/v2/D4E0BAQFaUsHXnHsWYg/company-logo_200_200/B4EZdktszGGcAM-/0/1749741391496/prisma_io_logo?e=1756944000&v=beta&t=NU3-ZyAATQlzWvirv3h-vcnv_sDsGiuJ8h53ZuDpfrE"></a>
+
 </div>
 <br/>
 <br/>
