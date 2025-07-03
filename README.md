@@ -75,7 +75,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 <div style="display: flex;">
     <h6>I am studying</h6>
     <a href="https://www.python.org/" target="blank"><img title="Python" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg"></a>
-    <a href="https://app.rocketseat.com.br/journey/inteligencia-artificial/contents" target="blank"><img title="IA" align="left" height="40" src="https://app.rocketseat.com.br/_next/image?url=https%3A%2F%2Fxesque.rocketseat.dev%2Fplatform%2F1724859467072.svg&w=48&q=75"></a>
+    <a href="https://app.rocketseat.com.br/journey/inteligencia-artificial/contents" target="blank"><img title="IA" align="left" height="40" src="https://xesque.rocketseat.dev/platform/1724859467072.svg"></a>
         <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg"></a>
 </div>
 <br/>
