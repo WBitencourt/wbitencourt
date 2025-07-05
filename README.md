@@ -101,9 +101,8 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             <a align="center" valign="center" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
             </a>
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
+            <a align="center" valign="center" target="_blank" height="15px" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <br/>
-                <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Go to repository</span>
             </a>    
         </td>    
@@ -115,7 +114,6 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <br/>
-                <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Go to repository</span>
             </a>    
         </td>  
@@ -129,7 +127,6 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/with-love">
                 <br/>
-                <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Go to repository</span>
             </a>    
         </td>  
@@ -141,7 +138,6 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/giulice.js">
                 <br/>
-                <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Go to repository</span>
             </a>    
         </td>  
@@ -155,7 +151,6 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/npm-wbitencourt">
                 <br/>
-                <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Go to repository</span>
             </a>    
         </td>  
