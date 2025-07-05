@@ -96,62 +96,62 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 <table bordercolor="#66b2b2" align="center">
     <tr>
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">Bluetooth solar rc car</h3>
-            <br />           
+            <h3 align="center">Bluetooth solar rc car</h3>        
+            <a align="center" valign="center" target="_blank" height="15px" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
+                <span>Go to repository</span>
+            </a>   
+            <br />  
+            <br /> 
             <a align="center" valign="center" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
             </a>
-            <a align="center" valign="center" target="_blank" height="15px" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
-                <br/>
-                <span>Go to repository</span>
-            </a>    
         </td>    
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">Shelf Play</h3>
-            <br />           
+            <h3 align="center">Shelf Play</h3>         
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/shelf-play-front-end">
+                <span>Go to repository</span>
+            </a>    
+            <br />  
+            <br />  
             <a align="center" valign="center" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <img src="images/shelf-play-logo.png" height="300px" alt="Shelf play"/>
             </a>
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/shelf-play-front-end">
-                <br/>
-                <span>Go to repository</span>
-            </a>    
         </td>  
     </tr>
     <tr>
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">💕 With love 💕</h3>
-            <br />           
+            <h3 align="center">💕 With love 💕</h3>  
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/with-love">
+                <span>Go to repository</span>
+            </a>  
+            <br />  
+            <br />
             <a align="center" valign="center" href="https://github.com/WBitencourt/with-love">
                 <img src="https://github.com/user-attachments/assets/adee83dd-cec1-4cc5-ad19-ee9023bc3f9f" height="300px" alt="Shelf play"/>
-            </a>
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/with-love">
-                <br/>
-                <span>Go to repository</span>
-            </a>    
+            </a>  
         </td>  
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">Giulice.js</h3>
-            <br />           
+            <h3 align="center">Giulice.js</h3>  
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/giulice.js">
+                <span>Go to repository</span>
+            </a> 
+            <br />  
+            <br />  
             <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
                 <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
-            </a>
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/giulice.js">
-                <br/>
-                <span>Go to repository</span>
-            </a>    
+            </a>   
         </td>  
     </tr>
     <tr>
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">NPM package: wbitencourt</h3>
-            <br />           
+            <h3 align="center">NPM package: wbitencourt</h3>    
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/npm-wbitencourt">
+                <span>Go to repository</span>
+            </a>
+            <br />  
+            <br /> 
             <a align="center" valign="center" href="https://www.npmjs.com/package/wbitencourt">
                 <img src="https://github.com/user-attachments/assets/91a3dff9-998b-492a-a49a-222378039487" height="300px" alt="Shelf play"/>
-            </a>
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/npm-wbitencourt">
-                <br/>
-                <span>Go to repository</span>
             </a>    
         </td>  
         <td width="50%" valign="top" align="center">             
