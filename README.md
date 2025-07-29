@@ -3,11 +3,13 @@
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
 <br/>
-Software Engineer with a degree in Computer Science. I've been professionally active in the tech industry since 2019.
+Software Engineer with a degree in Computer Science. 
 
-I thrive on technological challenges as they provide the freedom to create and innovate.
+I've been professionally active in the tech industry since 2019.
 
-I deeply believe in this quote for what it represents in the daily struggles of a developer:
+I love technology challenges because they give me the freedom to create and innovate.
+
+I really believe in this quote for what it represents in the daily struggles of a developer:
 
 "Do your best with what you have, until you can do better with better means!" - Mario Sergio Cortella
 <br> 
