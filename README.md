@@ -140,7 +140,7 @@ I really believe in this quote for what it represents in the daily struggles of 
             <br />  
             <br /> 
             <a align="center" valign="center" href="https://www.npmjs.com/package/wbitencourt">
-                <img src="https://github.com/user-attachments/assets/63d9081e-0bd5-4838-ac4b-ac95b4bcc48f" height="300px" alt="Npm package"/>
+                <img src="https://github.com/user-attachments/assets/a1eb1a07-d406-446e-b017-50fd4be36df4" height="300px" alt="Npm package"/>
             </a>  
         </td>  
     </tr>
