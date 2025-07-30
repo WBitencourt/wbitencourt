@@ -105,7 +105,7 @@ I really believe in this quote for what it represents in the daily struggles of 
             <br />  
             <br /> 
             <a align="center" valign="center" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
-                <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
+                <img src="images/RemoteCar_bluetooth3.gif" height="300px" width="300px" alt="Remote car bluetooth"/>
             </a>
         </td>    
         <td width="50%" valign="top" align="center">           
@@ -116,7 +116,7 @@ I really believe in this quote for what it represents in the daily struggles of 
             <br />  
             <br />  
             <a align="center" valign="center" href="https://github.com/WBitencourt/shelf-play-front-end">
-                <img src="images/shelf-play-logo.png" height="300px" alt="Shelf play"/>
+                <img src="images/shelf-play-logo.png" height="300px" width="300px" alt="Shelf play"/>
             </a>
         </td>  
     </tr>
@@ -129,7 +129,7 @@ I really believe in this quote for what it represents in the daily struggles of 
             <br />  
             <br />
             <a align="center" valign="center" href="https://github.com/WBitencourt/with-love">
-                <img src="https://github.com/user-attachments/assets/adee83dd-cec1-4cc5-ad19-ee9023bc3f9f" height="300px" alt="Shelf play"/>
+                <img src="https://github.com/user-attachments/assets/adee83dd-cec1-4cc5-ad19-ee9023bc3f9f" height="300px" width="300px" alt="With love"/>
             </a>  
         </td>  
         <td width="50%" valign="top" align="center">           
@@ -140,7 +140,7 @@ I really believe in this quote for what it represents in the daily struggles of 
             <br />  
             <br /> 
             <a align="center" valign="center" href="https://www.npmjs.com/package/wbitencourt">
-                <img src="https://github.com/user-attachments/assets/91a3dff9-998b-492a-a49a-222378039487" height="300px" alt="Shelf play"/>
+                <img src="https://github.com/user-attachments/assets/3c347556-c695-4ba4-80e4-886dd51de22f" height="300px" width="300px" alt="Npm package"/>
             </a>  
         </td>  
     </tr>
@@ -153,7 +153,7 @@ I really believe in this quote for what it represents in the daily struggles of 
             <br />  
             <br />  
             <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
-                <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
+                <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" width="300px" alt="Giulice.js"/>
             </a>   
         </td>  
         <td width="50%" valign="top" align="center">             
