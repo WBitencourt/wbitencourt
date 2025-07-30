@@ -133,19 +133,6 @@ I really believe in this quote for what it represents in the daily struggles of 
             </a>  
         </td>  
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">Giulice.js</h3>  
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/giulice.js">
-                <span>Go to repository</span>
-            </a> 
-            <br />  
-            <br />  
-            <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
-                <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
-            </a>   
-        </td>  
-    </tr>
-    <tr>
-        <td width="50%" valign="top" align="center">           
             <h3 align="center">NPM package: wbitencourt</h3>    
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/npm-wbitencourt">
                 <span>Go to repository</span>
@@ -154,7 +141,20 @@ I really believe in this quote for what it represents in the daily struggles of 
             <br /> 
             <a align="center" valign="center" href="https://www.npmjs.com/package/wbitencourt">
                 <img src="https://github.com/user-attachments/assets/91a3dff9-998b-492a-a49a-222378039487" height="300px" alt="Shelf play"/>
-            </a>    
+            </a>  
+        </td>  
+    </tr>
+    <tr>
+        <td width="50%" valign="top" align="center">     
+                    <h3 align="center">Giulice.js</h3>  
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/giulice.js">
+                <span>Go to repository</span>
+            </a> 
+            <br />  
+            <br />  
+            <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
+                <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
+            </a>   
         </td>  
         <td width="50%" valign="top" align="center">             
         </td>  
