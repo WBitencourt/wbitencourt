@@ -7,9 +7,7 @@ Software Engineer with a degree in Computer Science.
 
 I've been professionally active in the tech industry since 2019.
 
-I love technology challenges because they give me the freedom to create and innovate.
-
-I really believe in this quote for what it represents in the daily struggles of a developer:
+Motivated by technology challenges, I feel more curious, more creative, and ready to plan and build good solutions
 
 "Do your best with what you have, until you can do better with better means!" - Mario Sergio Cortella
 <br> 
