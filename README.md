@@ -47,7 +47,7 @@ Motivated by technology challenges, I feel more curious, more creative, and read
 <div style="display: flex;">
     <a href="https://www.w3.org/html/" target="blank"><img title="HTML5" align="left" height="40" width="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg"></a>
     <a href="https://playwright.dev" target="blank"><img title="Playwright" align="left" height="40" width="40" src="https://playwright.dev/img/playwright-logo.svg"></a> 
-    <a href="https://storybook.js.org/" target="blank"><img title="Storybook" align="left" height="40" width="40" width="40" src="https://github.com/user-attachments/assets/25d4e2e2-196d-4354-8f9b-b2a154784e03"></a>
+    <a href="https://storybook.js.org/" target="blank"><img title="Storybook" align="left" height="40" width="40" width="40" src="https://wbitencourt.dev/icons/storybook.svg"></a>
     <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" width="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></a>
     <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" width="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg"></a>
 </div>
