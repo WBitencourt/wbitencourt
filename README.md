@@ -41,13 +41,13 @@ Motivated by technology challenges, I feel more curious, more creative, and read
         <a href="https://www.linuxfoundation.org" target="blank"><img title="Linux" align="left" height="40" width="40" src="images/linux.svg"></a>
         <a href="https://www.ubuntu.com" target="blank"><img title="Ubuntu" align="left" height="40" width="40" src="images/ubuntu.svg"></a>
         <a href="https://www.raspberrypi.com/" target="blank"><img title="Raspberry Pi" align="left" height="40" width="40" src="images/raspberry-pi.svg"></a>
-        <a href="https://vitest.dev" target="blank"><img title="Vitest" align="left" height="40" width="40" src="images/vitest.svg"></a>
+        <a href="https://www.arduino.cc/" target="blank"><img title="Arduino" align="left" height="40" width="40" src="images/arduino.svg"></a>
     </div>
     <br/>
     <br/>
     <br/>
     <div style="display: flex;">
-        <a href="https://www.arduino.cc/" target="blank"><img title="Arduino" align="left" height="40" width="40" src="images/arduino.svg"></a>
+        <a href="https://vitest.dev" target="blank"><img title="Vitest" align="left" height="40" width="40" src="images/vitest.svg"></a>
     </div>
 </div>
 <br/>
