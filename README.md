@@ -24,74 +24,115 @@ Motivated by technology challenges, I feel more curious, more creative, and read
 
 **Main languages and tools:**
 
+<h5>I have experience</h6>
+
 <div style="display: flex;">
-    <h6>I have experience</h6>
-    <a href="https://www.javascript.com/" target="blank"><img title="Javascript" align="left" height="40" width="40" src="images/javascript.svg"></a>
-    <a href="https://reactjs.org/" target="blank"><img title="React" align="left" height="40" width="40" src="images/react.svg"></a>
-    <a href="https://tailwindcss.com/" target="blank"><img title="Tailwind" align="left" height="40" width="40" src="images/tailwind.svg"></a>
-    <a href="https://aws.amazon.com/" target="blank"><img title="AWS" align="left" height="40" width="40" src="images/aws.svg"></a>
-    <a href="https://nodejs.org/en/" target="blank"><img title="Node.js" align="left" height="40" width="40" src="images/nodejs.svg"></a>
-</div>
-<br/>
-<br/>
-<br/>
-<div style="display: flex;">
-    <a href="https://www.typescriptlang.org/" target="blank"><img title="Typescript" align="left" height="40" width="40" src="images/typescript.svg"></a>
-    <a href="https://nextjs.org/" target="blank"><img title="Next.js" align="left" height="40" width="40" src="images/nextjs.svg"></a>
-    <a href="https://zustand-demo.pmnd.rs/" target="blank"><img title="Zustand" align="left" height="40" width="40" src="images/zustand.png"></a>
-    <a href="https://www.docker.com/" target="blank"><img title="Docker" align="left" height="40" width="40" src="images/docker.svg"></a>
-    <a href="https://nestjs.com/" target="blank"><img title="Nest.js" align="left" height="40" width="40" src="images/nestjs.svg"></a>
-</div>
-<br/>
-<br/>
-<br/>
-<div style="display: flex;">
-    <a href="https://www.w3.org/html/" target="blank"><img title="HTML5" align="left" height="40" width="40" src="images/html5.svg"></a>
-    <a href="https://playwright.dev" target="blank"><img title="Playwright" align="left" height="40" width="40" src="images/playwright.svg"></a> 
-    <a href="https://storybook.js.org/" target="blank"><img title="Storybook" align="left" height="40" width="40" width="40" src="images/storybook.svg"></a>
-    <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" width="40" src="images/postgresql.svg"></a>
-    <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" width="40" src="images/git.svg"></a>
-</div>
-<br/>
-<br/>
-<br/>
-<div style="display: flex;">
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img title="CSS3" align="left" height="40" width="40" src="images/css3.svg"></a>
-    <a href="https://vitest.dev" target="blank"><img title="Vitest" align="left" height="40" width="40" src="images/vitest.svg"></a>
+    <h6>General</h6>
+    <div style="display: flex;">
+        <a href="https://www.javascript.com/" target="blank"><img title="Javascript" align="left" height="40" width="40" src="images/javascript.svg"></a>
+        <a href="https://www.typescriptlang.org/" target="blank"><img title="Typescript" align="left" height="40" width="40" src="images/typescript.svg"></a>
+        <a href="https://nodejs.org/en/" target="blank"><img title="Node.js" align="left" height="40" width="40" src="images/nodejs.svg"></a>
+        <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" width="40" src="images/git.svg"></a>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <div style="display: flex;">
         <a href="https://www.linuxfoundation.org" target="blank"><img title="Linux" align="left" height="40" width="40" src="images/linux.svg"></a>
         <a href="https://www.ubuntu.com" target="blank"><img title="Ubuntu" align="left" height="40" width="40" src="images/ubuntu.svg"></a>
-    <a href="https://www.prisma.io/" target="blank"><img title="Prisma" align="left" height="40" width="40" src="images/prisma.svg"></a>
+        <a href="https://www.raspberrypi.com/" target="blank"><img title="Raspberry Pi" align="left" height="40" width="40" src="images/raspberry-pi.svg"></a>
+        <a href="https://vitest.dev" target="blank"><img title="Vitest" align="left" height="40" width="40" src="images/vitest.svg"></a>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <div style="display: flex;">
+        <a href="https://www.arduino.cc/" target="blank"><img title="Arduino" align="left" height="40" width="40" src="images/arduino.svg"></a>
+    </div>
 </div>
 <br/>
 <br/>
 <br/>
 <div style="display: flex;">
-
+    <h6>Frontend</h6>
+    <div style="display: flex;">
+        <a href="https://reactjs.org/" target="blank"><img title="React" align="left" height="40" width="40" src="images/react.svg"></a>
+        <a href="https://nextjs.org/" target="blank"><img title="Next.js" align="left" height="40" width="40" src="images/nextjs.svg"></a>
+        <a href="https://tailwindcss.com/" target="blank"><img title="Tailwind" align="left" height="40" width="40" src="images/tailwind.svg"></a>
+        <a href="https://zustand-demo.pmnd.rs/" target="blank"><img title="Zustand" align="left" height="40" width="40" src="images/zustand.png"></a>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <div style="display: flex;">
+        <a href="https://www.w3.org/html/" target="blank"><img title="HTML5" align="left" height="40" width="40" src="images/html5.svg"></a>
+        <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img title="CSS3" align="left" height="40" width="40" src="images/css3.svg"></a>
+        <a href="https://storybook.js.org/" target="blank"><img title="Storybook" align="left" height="40" width="40" width="40" src="images/storybook.svg"></a>
+        <a href="https://playwright.dev" target="blank"><img title="Playwright" align="left" height="40" width="40" src="images/playwright.svg"></a> 
+    </div>
 </div>
 <br/>
 <br/>
 <br/>
 <div style="display: flex;">
-    <h6>I have worked with</h6>
+    <h6>Backend/DevOps</h6>
+    <div style="display: flex;">
+        <a href="https://nestjs.com/" target="blank"><img title="Nest.js" align="left" height="40" width="40" src="images/nestjs.svg"></a>
+        <a href="https://www.prisma.io/" target="blank"><img title="Prisma" align="left" height="40" width="40" src="images/prisma.svg"></a>
+        <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" width="40" src="images/postgresql.svg"></a>
+        <a href="https://www.docker.com/" target="blank"><img title="Docker" align="left" height="40" width="40" src="images/docker.svg"></a>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <div style="display: flex;">
+        <a href="https://aws.amazon.com/" target="blank"><img title="AWS" align="left" height="40" width="40" src="images/aws.svg"></a>
+    </div>
+</div>
+<br/>
+<br/>
+<br/>
+<div style="display: flex;">
+    <h6>AWS</h6>
+    <div style="display: flex;">
+        <a href="https://aws.amazon.com/pt/dynamodb" target="blank"><img title="DynamoDb" align="left" height="40" width="40" src="images/dynamodb.svg"></a>
+        <a href="https://aws.amazon.com/pt/s3" target="blank"><img title="S3 Bucket" align="left" height="40" width="40" src="images/s3.svg"></a>
+        <a href="https://aws.amazon.com/pt/lambda" target="blank"><img title="Lambda" align="left" height="40" width="40" src="images/lambda.svg"></a>
+        <a href="https://aws.amazon.com/pt/ses" target="blank"><img title="SES" align="left" height="40" width="40" src="images/ses.svg"></a>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <div style="display: flex;">
+        <a href="https://aws.amazon.com/pt/sqs" target="blank"><img title="SQS" align="left" height="40" width="40" src="images/sqs.svg"></a>
+        <a href="https://aws.amazon.com/pt/sns" target="blank"><img title="SNS" align="left" height="40" width="40" src="images/sns.svg"></a>
+        <a href="https://aws.amazon.com/pt/cognito" target="blank"><img title="Cognito" align="left" height="40" width="40" src="images/cognito.svg"></a>
+        <a href="https://aws.amazon.com/pt/cloudwatch" target="blank"><img title="Cloud Watch" align="left" height="40" width="40" src="images/cloud-watch.svg"></a>
+    </div>
+</div>
+<br/>
+<br/>
+<br/>
+<div style="display: flex;">
+    <h5>I worked with</h6>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img title="C#" align="left" height="40" width="40" src="images/csharp.svg"></a>
     <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img title="SQL Server" align="left" height="40" width="40" src="images/sqlserver.svg"></a>
     <a href="https://getbootstrap.com/" target="blank"><img title="Bootstrap" align="left" height="40" width="40" src="images/bootstrap.svg"></a> 
-            <a href="https://www.raspberrypi.com/" target="blank"><img title="Raspberry Pi" align="left" height="40" width="40" src="images/raspberry-pi.svg"></a>
 </div>
 <br/>
 <br/>
 <br/>
 <div style="display: flex;">
-    <h6>I am studying</h6>
+    <h5>I am studying</h6>
     <a href="https://www.python.org/" target="blank"><img title="Python" align="left" height="40" width="40" src="images/python.svg"></a>
     <a href="https://app.rocketseat.com.br/journey/inteligencia-artificial/contents" target="blank"><img title="IA" align="left" height="40" width="40" src="images/ia.svg"></a>
-        <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" width="40" src="images/mongodb.svg"></a>
+    <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" width="40" src="images/mongodb.svg"></a>
 </div>
 <br/>
 <br/>
 <br/>
 <div style="display: flex;">
-    <h6>I am interested</h6>
+    <h5>I am interested</h6>
     <a href="https://graphql.org/" target="blank"><img title="Graphql" align="left" height="40" width="40" src="images/graphql.svg"></a>
     <a href="https://expo.dev" target="blank"><img title="Expo" align="left" height="40" width="40" src="images/expo.svg"></a>
     <a href="https://reactnative.dev/" target="blank"><img title="React Native" align="left" height="40" width="40" src="images/reactnative.svg"></a>
