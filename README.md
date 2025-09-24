@@ -96,7 +96,7 @@ Motivated by technology challenges, I feel more curious, more creative, and read
     <div style="display: flex;">
         <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" width="40" src="images/postgresql.svg"></a>
         <a href="https://expressjs.com/" target="blank"><img title="Express" align="left" height="40" width="40" src="images/express.svg"></a>
-        <a href="https://fastify.dev/" target="blank"><img title="Fastify" align="left" height="40" width="40" src="images/fastify.svg"></a>
+        <a href="https://fastify.dev/" target="blank"><img title="Fastify" align="left" height="40" width="40" src="images/fastify2.svg"></a>
     </div>
 </div>
 <br/>
