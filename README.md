@@ -74,19 +74,29 @@ Motivated by technology challenges, I feel more curious, more creative, and read
 <br/>
 <br/>
 <br/>
+    <div style="display: flex;">
+        <a href="https://vite.dev/" target="blank"><img title="Vite" align="left" height="40" width="40" src="images/vite.svg"></a>
+        <a href="https://tanstack.com/query/latest" target="blank"><img title="React/TanStack Query" align="left" height="40" width="40" src="images/react-query.svg"></a>
+    </div>
+</div>
+<br/>
+<br/>
+<br/>
 <div style="display: flex;">
     <h6>Backend/DevOps</h6>
     <div style="display: flex;">
         <a href="https://nestjs.com/" target="blank"><img title="Nest.js" align="left" height="40" width="40" src="images/nestjs.svg"></a>
         <a href="https://www.prisma.io/" target="blank"><img title="Prisma" align="left" height="40" width="40" src="images/prisma.svg"></a>
-        <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" width="40" src="images/postgresql.svg"></a>
-        <a href="https://www.docker.com/" target="blank"><img title="Docker" align="left" height="40" width="40" src="images/docker.svg"></a>
+        <a href="https://typeorm.io/" target="blank"><img title="Type ORM" align="left" height="40" width="40" src="images/type-orm.svg"></a>
+        <a href="https://aws.amazon.com/" target="blank"><img title="AWS" align="left" height="40" width="40" src="images/aws.svg"></a>
     </div>
     <br/>
     <br/>
     <br/>
     <div style="display: flex;">
-        <a href="https://aws.amazon.com/" target="blank"><img title="AWS" align="left" height="40" width="40" src="images/aws.svg"></a>
+        <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" width="40" src="images/postgresql.svg"></a>
+        <a href="https://expressjs.com/" target="blank"><img title="Express" align="left" height="40" width="40" src="images/express.svg"></a>
+        <a href="https://fastify.dev/" target="blank"><img title="Fastify" align="left" height="40" width="40" src="images/fastify.svg"></a>
     </div>
 </div>
 <br/>
@@ -125,8 +135,15 @@ Motivated by technology challenges, I feel more curious, more creative, and read
 <div style="display: flex;">
     <h5>I am studying</h6>
     <a href="https://www.python.org/" target="blank"><img title="Python" align="left" height="40" width="40" src="images/python.svg"></a>
+    <a href="https://fastapi.tiangolo.com/" target="blank"><img title="FastAPI" align="left" height="40" width="40" src="images/fastapi.svg"></a>
     <a href="https://app.rocketseat.com.br/journey/inteligencia-artificial/contents" target="blank"><img title="IA" align="left" height="40" width="40" src="images/ia.svg"></a>
-    <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" width="40" src="images/mongodb.svg"></a>
+        <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" width="40" src="images/mongodb.svg"></a>
+</div>
+<br/>
+<br/>
+<br/>
+<div style="display: flex;">
+    <a href="https://redis.io/" target="blank"><img title="Redis" align="left" height="40" width="40" src="images/redis.svg"></a>
 </div>
 <br/>
 <br/>
