@@ -5,7 +5,7 @@
 <br/>
 Software Engineer with a degree in Computer Science.
 
-I've been professionally active in the tech industry since 2019.
+Since 2019 I have been working professionally in the technology area.
 
 Motivated by technology challenges, I feel more curious, more creative, and ready to plan and build good solutions
 
