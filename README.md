@@ -7,6 +7,8 @@ Software Engineer with a degree in Computer Science.
 
 Since 2019 I have been working professionally in the technology area.
 
+I am a curious, creative and analytical person.
+
 "Do your best with what you have, until you can do better with better means!" - Mario Sergio Cortella
 <br>
 <br/>
