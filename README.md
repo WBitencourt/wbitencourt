@@ -15,9 +15,9 @@ I am a curious, creative and analytical person.
 **📫 How to reach me:**
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/wendell-bitencourt/" target="blank"><img title="Linkedin" align="left" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
-<a href="https://www.instagram.com/wbitencourt.dev/" target="blank"><img title="Instagram" align="left" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png"></a>
-<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="Rocketseat" align="left" height="40" width="40" src="https://github.com/user-attachments/assets/babeefc0-60bc-45ec-8f6a-50b083cfb9b9"></a>
+<a href="https://www.linkedin.com/in/wendell-bitencourt/" target="blank"><img title="Linkedin" align="left" height="40" width="40" src="images/linkedin.png"></a>
+<a href="https://www.instagram.com/wbitencourt.dev/" target="blank"><img title="Instagram" align="left" height="40" width="40" src="images/instagram.png"></a>
+<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="Rocketseat" align="left" height="40" width="40" src="images/rocketseat.png"></a>
 <br/>
 <br/>
 <br/>
