@@ -163,8 +163,19 @@ I am a curious, creative and analytical person.
 
 <table bordercolor="#66b2b2" align="center">
     <tr>
+        <td width="50%" valign="top" align="center">    
+            <h3 align="center">🤖 claw-pi-docker 🐳</h3>  
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/claw-pi-docker">
+                <span>Go to repository</span>
+            </a> 
+            <br />  
+            <br />  
+            <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
+                <img src="https://github.com/WBitencourt/claw-pi-docker/blob/main/assets/claw-pi-docker-logo.png" height="300px" alt="Giulice.js"/>
+            </a>  
+        </td>  
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">Bluetooth solar rc car</h3>        
+            <h3 align="center">☀️ bluetooth-solar-rc-car 🎮</h3>        
             <a align="center" valign="center" target="_blank" height="15px" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <span>Go to repository</span>
             </a>   
@@ -173,9 +184,22 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
             </a>
-        </td>    
+        </td>     
+    </tr>
+    <tr>
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">Shelf Play</h3>         
+            <h3 align="center">💕 with-love 💕</h3>  
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/with-love">
+                <span>Go to repository</span>
+            </a>  
+            <br />  
+            <br />
+            <a align="center" valign="center" href="https://github.com/WBitencourt/with-love">
+                <img src="https://github.com/user-attachments/assets/adee83dd-cec1-4cc5-ad19-ee9023bc3f9f" height="300px" alt="With love"/>
+            </a>  
+        </td>  
+                <td width="50%" valign="top" align="center">           
+            <h3 align="center">🕮 shelf-play ▶︎</h3>         
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <span>Go to repository</span>
             </a>    
@@ -188,18 +212,7 @@ I am a curious, creative and analytical person.
     </tr>
     <tr>
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">💕 With love 💕</h3>  
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/with-love">
-                <span>Go to repository</span>
-            </a>  
-            <br />  
-            <br />
-            <a align="center" valign="center" href="https://github.com/WBitencourt/with-love">
-                <img src="https://github.com/user-attachments/assets/adee83dd-cec1-4cc5-ad19-ee9023bc3f9f" height="300px" alt="With love"/>
-            </a>  
-        </td>  
-        <td width="50%" valign="top" align="center">           
-            <h3 align="center">NPM package: wbitencourt</h3>    
+            <h3 align="center">📦 npm-wbitencourt 📦</h3>    
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/npm-wbitencourt">
                 <span>Go to repository</span>
             </a>
@@ -208,11 +221,9 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://www.npmjs.com/package/wbitencourt">
                 <img src="https://github.com/user-attachments/assets/a1eb1a07-d406-446e-b017-50fd4be36df4" height="300px" alt="Npm package"/>
             </a>  
-        </td>  
-    </tr>
-    <tr>
+        </td> 
         <td width="50%" valign="top" align="center">     
-                    <h3 align="center">Giulice.js</h3>  
+            <h3 align="center">⚛︎ giulice.js ⚛︎</h3>  
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/giulice.js">
                 <span>Go to repository</span>
             </a> 
@@ -221,6 +232,11 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
                 <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
             </a>   
+        </td>  
+
+    </tr>
+    <tr>
+        <td width="50%" valign="top" align="center">     
         </td>  
         <td width="50%" valign="top" align="center">             
         </td>  
