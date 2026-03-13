@@ -233,7 +233,6 @@ I am a curious, creative and analytical person.
                 <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
             </a>   
         </td>  
-
     </tr>
     <tr>
         <td width="50%" valign="top" align="center">     
