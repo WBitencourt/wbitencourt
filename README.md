@@ -170,7 +170,7 @@ I am a curious, creative and analytical person.
             </a> 
             <br />  
             <br />  
-            <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
+            <a align="center" valign="center" href="https://github.com/WBitencourt/claw-pi-docker">
                 <img src="https://github.com/WBitencourt/claw-pi-docker/blob/main/assets/claw-pi-docker-logo.png" height="300px" alt="Giulice.js"/>
             </a>  
         </td>  
