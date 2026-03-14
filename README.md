@@ -175,7 +175,7 @@ I am a curious, creative and analytical person.
             </a>  
         </td>  
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">☀️ bluetooth-solar-rc-car 🎮</h3>        
+            <h3 align="center">🎮 bluetooth-solar-rc-car ☀️</h3>        
             <a align="center" valign="center" target="_blank" height="15px" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <span>Go to repository</span>
             </a>   
