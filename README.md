@@ -173,6 +173,9 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://github.com/WBitencourt/claw-pi-docker">
                 <img src="https://github.com/WBitencourt/claw-pi-docker/blob/main/assets/claw-pi-docker-logo.png" height="300px" alt="Giulice.js"/>
             </a>  
+            <p>
+               Dockerized open-claw server for Raspberry Pi OS.
+            </p>
         </td>  
         <td width="50%" valign="top" align="center">           
             <h3 align="center">🎮 bluetooth-solar-rc-car ☀️</h3>        
@@ -184,6 +187,9 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
             </a>
+            <p>
+               A solar-powered car using Arduino. It uses Bluetooth for control and solar panels to recharge the battery.
+            </p>
         </td>     
     </tr>
     <tr>
@@ -197,6 +203,9 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://github.com/WBitencourt/with-love">
                 <img src="https://github.com/user-attachments/assets/adee83dd-cec1-4cc5-ad19-ee9023bc3f9f" height="300px" alt="With love"/>
             </a>  
+            <p>
+               A romantic web app created especially to remember our moments and celebrate our time together.
+            </p>
         </td>  
                 <td width="50%" valign="top" align="center">           
             <h3 align="center">🕮 shelf-play ▶︎</h3>         
@@ -208,6 +217,9 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <img src="images/shelf-play-logo.png" height="300px" alt="Shelf play"/>
             </a>
+                        <p>
+               Your movies and series organized your way!
+            </p>
         </td>  
     </tr>
     <tr>
@@ -221,6 +233,9 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://www.npmjs.com/package/wbitencourt">
                 <img src="https://github.com/user-attachments/assets/a1eb1a07-d406-446e-b017-50fd4be36df4" height="300px" alt="Npm package"/>
             </a>  
+                        <p>
+               A personal monorepo containing npm tools and utilities developed for personal use, projects and learning.
+            </p>
         </td> 
         <td width="50%" valign="top" align="center">     
             <h3 align="center">⚛︎ giulice.js ⚛︎</h3>  
@@ -232,6 +247,9 @@ I am a curious, creative and analytical person.
             <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
                 <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
             </a>   
+                        <p>
+               A custom React component library built for learning and personal project use.
+            </p>
         </td>  
     </tr>
     <tr>
