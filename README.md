@@ -1,4 +1,4 @@
-# About-me 🤓
+# About-me 😎
 
 👋 Hello, my name is Wendell Bitencourt.
 <br/>
