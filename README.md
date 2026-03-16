@@ -245,7 +245,7 @@ I am a curious, creative and analytical person.
             <br />  
             <br />  
             <a align="center" valign="center" href="https://github.com/WBitencourt/giulice.js">
-                <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="300px" alt="Giulice.js"/>
+                <img src="https://github.com/user-attachments/assets/d002ccf7-b914-4cdb-9329-f98ff30b55d8" height="270px" alt="Giulice.js"/>
             </a>   
                         <p>
                A custom React component library built for learning and personal project use.
