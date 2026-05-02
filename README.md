@@ -59,7 +59,7 @@ I am a curious, creative and analytical person.
 <div style="display: flex;">
     <h6>Automation & Integrations</h6>
     <div style="display: flex;">
-        <a href="https://n8n.io/" target="blank"><img title="Vitest" align="left" height="40" width="40" src="images/n8n.svg"></a>
+        <a href="https://n8n.io/" target="blank"><img title="N8N" align="left" height="40" width="40" src="images/n8n.svg"></a>
     </div>
 </div>
 <br/>
