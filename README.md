@@ -33,7 +33,7 @@ I am a curious, creative and analytical person.
         <a href="https://www.typescriptlang.org/" target="blank"><img title="Typescript" align="left" height="40" width="40" src="images/typescript.svg"></a>
         <a href="https://nodejs.org/en/" target="blank"><img title="Node.js" align="left" height="40" width="40" src="images/nodejs.svg"></a>
         <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" width="40" src="images/git.svg"></a>
-    </div>
+</div>
     <br/>
     <br/>
     <br/>
@@ -53,6 +53,20 @@ I am a curious, creative and analytical person.
 <br/>
 <br/>
 <br/>
+
+
+
+<div style="display: flex;">
+    <h6>Automation & Integrations</h6>
+    <div style="display: flex;">
+        <a href="https://n8n.io/" target="blank"><img title="Vitest" align="left" height="40" width="40" src="images/n8n.svg"></a>
+    </div>
+</div>
+<br/>
+<br/>
+<br/>
+
+
 <div style="display: flex;">
     <h6>Frontend</h6>
     <div style="display: flex;">
